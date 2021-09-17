@@ -123,12 +123,12 @@ const experiences = {
   data: [
     {
       role: 'Executive Trainee in Quality (Regulatory Affairs) Department - Torrent Pharmaceuticals Ltd',
-      companylogo: require('../assets/img/torrent.png'),
+      companylogo: require('../assets/img/torrent.jpg'),
       date: 'Nov 2020 – Present',
     },    
     {
       role: 'Internship Trainee - Stallion Laboratories pvt. ltd',
-      companylogo: require('../assets/img/stallion.png'),
+      companylogo: require('../assets/img/stallion.jpg'),
       date: 'Sep 2019 – Mar 2020',
     },    
     {
