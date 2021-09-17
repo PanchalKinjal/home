@@ -124,7 +124,7 @@ const experiences = {
     {
       role: 'Executive Trainee in Quality (Regulatory Affairs) Department - Torrent Pharmaceuticals Ltd',
       companylogo: require('../assets/img/torrent.png'),
-      date: 'Jun 2018 – Aug 2018',
+      date: 'Nov 2020 – Present',
     },    
     {
       role: 'Internship Trainee - Stallion Laboratories pvt. ltd',
@@ -133,7 +133,7 @@ const experiences = {
     },    
     {
       role: 'Patient Care Pharmacist - Kyle Tech Consulting LLP',
-      companylogo: require('../assets/img/kyleTech.png'),
+      companylogo: require('../assets/img/kyleTech.jpg'),
       date: 'Jun 2018 – Aug 2018',
     },
     {
