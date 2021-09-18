@@ -17,7 +17,7 @@ const mainBody = {
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/kinjal.panchal/",
+      url: "https://www.instagram.com/kinjal2083/",
     },
     {
       image: "fa-linkedin",
